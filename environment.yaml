@@ -1,0 +1,5 @@
+name: taskman
+dependencies:
+  - fastapi
+  - redis
+  - uvicorn[standard]
